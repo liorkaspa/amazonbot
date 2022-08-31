@@ -63,4 +63,4 @@ def to_excel():
 
 date_changed, old_price = to_excel()
 if price != old_price and date_changed:
-    send_sms(phone_no_to, price)
+    send_sms(phone_no_to , price)
