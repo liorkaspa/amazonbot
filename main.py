@@ -21,6 +21,7 @@ for r in reviews:
 
 for o in output:
     print(o)
-    print("\n")
+    #print("\n") 
+    pritn("hi")
 #print(reviews)
 
