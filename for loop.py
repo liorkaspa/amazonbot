@@ -5,7 +5,7 @@ import lxml
 import urllib
 
 res = []
-
+a=[]
 
 def get_review(output):
     reviews = soup2.select("span[data-visible-text]")
