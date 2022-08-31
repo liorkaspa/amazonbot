@@ -17,7 +17,7 @@ phone_no_to = '+972506468199'
 def send_sms(phone_no_to, price):
     account_sid = os.environ["account_sid"]
     auth_token = os.environ["auth_token"]
-    client = Client(account_sid, auth_token)
+    client =  Client(account_sid, auth_token)
 
     message = client.messages \
         .create(
