@@ -1,6 +1,7 @@
 import urllib
 from bs4 import BeautifulSoup
 res=[]
+a=[]
 
 def get_review(output):
     reviews = soup2.select("span[data-visible-text]")
