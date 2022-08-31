@@ -2,7 +2,7 @@ import os
 import bs4
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
+import pandas as  pd
 import numpy as np
 from twilio.rest import Client
 import numpy as np
