@@ -1,0 +1,41 @@
+[33mcommit d448ced4ca628d9d039ef22327372c249431ab09[m[33m ([m[1;36mHEAD -> [m[1;32mnew-b[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Lior Kaspa <liorkaspa@gmail.com>
+Date:   Wed Aug 31 12:21:27 2022 +0300
+
+    merged
+
+[33mcommit c4754835dd7562302b2ca189f39463472db7846f[m
+Author: liorkaspa <112546550+liorkaspa@users.noreply.github.com>
+Date:   Wed Aug 31 12:14:02 2022 +0300
+
+    Update Amazon_bot.py
+
+[33mcommit 7db6fd5903171410de4255b4ca54bd2e7ff593ae[m
+Author: liorkaspa <112546550+liorkaspa@users.noreply.github.com>
+Date:   Wed Aug 31 12:06:41 2022 +0300
+
+    Update Amazon_bot.py
+
+[33mcommit f879509f29d0715e706b0e35676af8e424d10f78[m
+Author: Lior Kaspa <liorkaspa@gmail.com>
+Date:   Wed Aug 31 11:31:54 2022 +0300
+
+    new
+
+[33mcommit 5e79bd9ab99175a6f6e77f288054ce4dfcf2c479[m
+Author: Lior Kaspa <liorkaspa@gmail.com>
+Date:   Wed Aug 31 11:27:13 2022 +0300
+
+    changed for loop range
+
+[33mcommit 6f8ae4599d57787b60ee21ff67e1bd7506dd6d8d[m
+Author: Lior Kaspa <liorkaspa@gmail.com>
+Date:   Wed Aug 31 11:15:26 2022 +0300
+
+    all commited
+
+[33mcommit aa4510ec769ec63699ff4ef54b5949c0776dcd20[m
+Author: Lior Kaspa <liorkaspa@gmail.com>
+Date:   Wed Aug 31 11:05:47 2022 +0300
+
+    made a change and imported np
