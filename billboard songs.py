@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-data ="2022-02-10"
+data ="2022-02-11"
 res = requests.get("https://www.billboard.com/charts/hot-100/" + data).text
 soup = BeautifulSoup(res, 'html.parser')
 #titles=soup.select("ul[class='lrv-a-unstyle-list']>li>h3#title-of-a-story")
